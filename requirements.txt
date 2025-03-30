@@ -1,0 +1,20 @@
+numpy<2
+pandas
+torchinfo
+tensorboard==2.9.0
+scipy
+matplotlib==3.6
+scikit-learn
+eeglabio
+mne <= 1.1.1
+pylsl <= 1.16.1
+PyOpenGL
+qtpy
+PySide2
+vispy
+visbrain
+pyqtgraph
+pygame
+prettytable
+tbparse
+statsmodels
